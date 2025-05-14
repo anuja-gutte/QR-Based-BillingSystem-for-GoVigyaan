@@ -51,7 +51,11 @@ This system supports **GoVigyan products** to help promote traditional Indian ag
 - **State Management:** React useState / useEffect
 
 ---
+## 🔗 Live Demo
 
+Try it out here: [Billing System Live](https://qr-billing-system.web.app/)
+
+---
 ## 🚀 Deployment
 
 The project is deployed on **Firebase Hosting**. To run locally:
